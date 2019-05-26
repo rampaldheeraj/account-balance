@@ -1,5 +1,10 @@
 # account-balance
-This application is written in java11. The approach used here is as follows :
+This application is written in java11. 
+
+To execute, run the main method in Application.java
+
+
+The approach used here is as follows :
 Since we have input in the form of cvs as 
 
 ```
